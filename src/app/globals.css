@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 250 33% 98%;
+    --foreground: 260 25% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 260 25% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 260 25% 11%;
+
+    --primary: 270 85% 66%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 86 93% 59%;
+    --secondary-foreground: 260 25% 11%;
+
+    --muted: 260 10% 92%;
+    --muted-foreground: 260 10% 47%;
+
+    --accent: 270 50% 95%;
+    --accent-foreground: 260 25% 11%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 260 10% 90%;
+    --input: 260 10% 90%;
+    --ring: 270 85% 66%;
+
+    --radius: 1rem;
+  }
+
+  .dark {
+    --background: 260 25% 11%;
+    --foreground: 0 0% 98%;
+
+    --card: 260 25% 14%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 260 25% 14%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 270 85% 66%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 86 93% 59%;
+    --secondary-foreground: 260 25% 11%;
+
+    --muted: 260 20% 20%;
+    --muted-foreground: 260 10% 65%;
+
+    --accent: 270 20% 20%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 260 20% 25%;
+    --input: 260 20% 25%;
+    --ring: 270 85% 66%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@font-face {
+  font-family: 'TT Firs Neue';
+  src: url('https://ext.same-assets.com/3859733736/2780238202.bin') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TT Firs Neue';
+  src: url('https://ext.same-assets.com/3859733736/3340602134.bin') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'TT Firs Neue';
+  src: url('https://ext.same-assets.com/3859733736/2942455409.bin') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer components {
+  .gradient-bg {
+    @apply bg-gradient-to-r from-[#8e5ff2]/80 to-[#a88af6]/80;
+  }
+
+  .container-custom {
+    @apply container mx-auto px-4 max-w-7xl;
+  }
+
+  .glow {
+    position: relative;
+  }
+
+  .glow::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(142, 95, 242, 0.4) 0%, rgba(142, 95, 242, 0) 70%);
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    border-radius: 50%;
+    pointer-events: none;
+  }
+
+  .cta-button {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/90 font-medium rounded-full px-6 py-3 transition-all;
+  }
+
+  .primary-button {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 font-medium rounded-full px-6 py-3 transition-all;
+  }
+}

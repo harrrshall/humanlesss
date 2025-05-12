@@ -1,0 +1,83 @@
+**[Website Page Title: About Humanless | AI-Powered Compliance for RIAs]**
+
+**[Page Header/Headline Options:]**
+* About Humanless: Your Partner in Streamlined RIA Compliance
+* Simplifying Compliance for RIAs Through AI Automation
+* Meet Humanless: Augmenting Your Compliance, Empowering Your Growth
+
+**(Introduction Section)**
+
+Compliance doesn't have to be a bottleneck. For small and mid-sized Registered Investment Advisors (RIAs), navigating the complexities of SEC and state regulations can feel overwhelming – consuming valuable time, increasing operational costs, and introducing significant risk. Humanless was founded on the belief that powerful AI automation can transform this burden into a streamlined, efficient, and confidence-building aspect of your business. We are dedicated specialists focused exclusively on bringing practical, effective AI-driven compliance solutions to firms like yours.
+
+**(Our Story / Why We Exist Section)**
+
+We saw firsthand the challenges faced by growing RIAs. While larger firms might have extensive compliance departments, small and mid-sized firms often rely on principals or small teams juggling multiple roles. The sheer volume of recordkeeping, the intricacies of monitoring communications and trading, the demands of regulatory filings, and the constant pressure of audit readiness create significant operational friction. We knew there had to be a better way than manual checks and endless spreadsheets. Humanless was created to bridge this gap, leveraging cutting-edge AI specifically tailored to solve the most pressing compliance pain points for the backbone of the advisory industry – the small and mid-sized RIA.
+
+**(Our Mission & Vision Section)**
+
+* **Our Mission:** To empower small and mid-size RIAs to navigate complex regulatory requirements efficiently and confidently through specialized, practical, and integrated AI-driven compliance automation solutions. We aim to reduce risk, save time, and allow RIAs to focus more on their clients and growth.
+* **Our Vision:** To foster a future where compliance is seamlessly integrated and technology-augmented, allowing RIAs of all sizes to thrive securely and focus on delivering exceptional value to their clients.
+
+**(What We Do Section)**
+
+Humanless provides specialized consultancy and implementation services focused on automating specific, high-impact compliance workflows using Artificial Intelligence. We don't offer generic software; we deliver targeted solutions designed to integrate with your existing processes and technology stack. Our core focus includes automating:
+* Compliance Recordkeeping & Retrieval (Rule 204-2)
+* Code of Ethics & Personal Trading Monitoring (Rule 204A-1)
+* Client Onboarding Compliance Checks
+* Marketing & Advertising Review (SEC Marketing Rule)
+* Regulatory Filing Preparation Assistance (Form ADV)
+
+**(Who We Serve Section)**
+
+Our expertise is laser-focused on the needs of **Small to Mid-Size Registered Investment Advisors (RIAs)** across the United States, whether SEC or state-registered. We understand the unique resource constraints and operational realities faced by firms typically ranging from 1 to 100 employees, with a particular sweet spot for those who feel the compliance strain most acutely but lack large, dedicated internal teams. We work closely with CCOs, Principals, Owners, and Operations Managers to implement practical solutions.
+
+**(Our Approach & Philosophy Section)**
+
+We believe technology should augment your expertise, not replace it. Humanless acts as your strategic partner in compliance automation.
+* **Collaborative:** We start by listening intently to understand your specific challenges, workflows, and goals.
+* **Tailored:** Solutions are configured to your firm's unique policies, procedures, and existing tech stack (especially CRM integration).
+* **Practical:** We focus on automating the *most* time-consuming and highest-risk tasks first for tangible ROI.
+* **Integrated:** Our goal is seamless integration, minimizing disruption and enhancing your current operations.
+* **Transparent:** We prioritize solutions where you understand how the AI assists and maintain control via human oversight and validation.
+* **Supportive:** We provide training and ongoing support to ensure you maximize the value of your automation investment.
+
+**(Meet the Team Section - *Optional Placeholder*)**
+
+*[Optional: Insert brief information about the founder(s) or key team members later. You can start with a general statement like:]*
+Humanless is led by professionals passionate about both technology and the financial advisory space, dedicated to bringing innovative compliance solutions to RIAs.
+
+**(Our Simple Process to Get Started Section)**
+
+Engaging with Humanless is designed to be smooth and straightforward. We respect your time and aim to understand your needs quickly:
+
+1.  **Initial Contact (Your Choice):**
+    * **Email Us:** Send a brief message outlining your interest or challenges.
+    * **Call Us:** Have a quick introductory phone call.
+    * **Contact Form:** Fill out the simple form on our website.
+    * **Schedule Directly:** Use our online calendar (`CalButton`) to book a convenient time for an initial chat.
+2.  **Discovery Call (Understand & Align):** A brief virtual meeting (typically 30 minutes) where we listen to understand your firm's specific compliance pain points, current processes, technology stack (CRM, etc.), and goals for automation. No high-pressure sales, just understanding if we're a good fit.
+3.  **Tailored Proposal (Clear Path Forward):** If there's a mutual fit, we'll provide a clear, concise proposal outlining:
+    * The specific AI solution(s) recommended to address your key challenges.
+    * Scope of work and deliverables.
+    * Implementation timeline.
+    * Transparent pricing (often project-based for initial engagements).
+    * Expected ROI (time savings, risk reduction).
+4.  **Implementation & Integration (Seamless Setup):** Upon agreement, we handle the technical setup, configuration based on your rules, integration with your core systems (like CRM), and provide clear training for your team.
+5.  **Ongoing Partnership & Support (Your Success):** We don't just deploy and disappear. We provide ongoing support, check-ins, and are available to help you adapt the solutions as your firm evolves or regulations change.
+
+**(Why Choose Humanless? Section)**
+
+* **RIA Compliance Specialists:** We focus solely on AI automation for RIA compliance – it's all we do.
+* **Small/Mid-Size Firm Focus:** Our solutions and approach are designed for your specific needs and budget.
+* **Practical AI Application:** We implement proven AI tools for tangible results, not just hype.
+* **Risk Reduction Focus:** Our core goal is to help you mitigate compliance risk effectively.
+* **Efficiency Experts:** We target the bottlenecks that drain your team's valuable time.
+* **Collaborative Partnership:** We work *with* you to augment your capabilities.
+
+**(Call to Action Section)**
+
+Ready to simplify your compliance workflow and gain peace of mind? Let's explore how Humanless AI can help your firm.
+
+* **[Button/Link: Schedule Your Free Discovery Call]**
+* **[Button/Link: Explore Our AI Solutions]**
+* **[Link: Contact Us With Your Questions]**
