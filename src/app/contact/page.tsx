@@ -25,7 +25,7 @@ export default function ContactPage() {
                         <div className="flex flex-col sm:flex-row justify-center items-center gap-8 text-muted-foreground">
                             <a href="mailto:cybernovascnn@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
                                 <Mail size={20} />
-                                <span>cybernovascnn@gmail.com</span>
+                                <span>harshal@humanless.site</span>
                             </a>
                             <a href="tel:+917349836396" className="flex items-center gap-2 hover:text-primary transition-colors">
                                 <Phone size={20} />
